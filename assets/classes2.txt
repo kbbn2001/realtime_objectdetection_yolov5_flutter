@@ -1,0 +1,17 @@
+batteries
+bottle
+calculator
+chair
+eraser
+keyboard
+laptop
+monitor
+mouse
+paper_clip
+printer
+ruler
+scissor
+telephone
+webcam
+pen
+controller
